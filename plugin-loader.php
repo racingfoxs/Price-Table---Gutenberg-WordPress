@@ -86,3 +86,6 @@ class Plugin_Loader {
  * Kicking this off by calling 'get_instance()' method
  */
 Plugin_Loader::get_instance();
+
+
+include_once( plugin_dir_path( __FILE__ ) . 'price-table/price-table.php' );

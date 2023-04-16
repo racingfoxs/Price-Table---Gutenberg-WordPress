@@ -1,0 +1,1 @@
+{"version":3,"file":"price-table-child/index.css","mappings":";;;AAAA;EACI;AACJ,C","sources":["webpack://price-table/./src/price-table-child/index.scss"],"sourcesContent":[".my-custom-block-title{\r\n    color: aqua;\r\n}"],"names":[],"sourceRoot":""}
